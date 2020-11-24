@@ -3,6 +3,7 @@ hello world !
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 long time no see!
 =======
 How are you?
@@ -16,3 +17,6 @@ Me,too!
 =======
 I miss you so much these days
 >>>>>>> 5
+=======
+Think you
+>>>>>>> 6
