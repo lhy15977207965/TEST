@@ -1,6 +1,10 @@
 hello world !
 <<<<<<< HEAD
+<<<<<<< HEAD
 long time no see!
 =======
 How are you?
 >>>>>>> 2
+=======
+I'm fine.Thinks,and you?
+>>>>>>> 3
